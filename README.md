@@ -38,8 +38,8 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : Aldrin Lijo J E
-### NAME : 212222240007
+### REG NUMBER : SWETHA P
+### NAME : 212222100053
 
 ## OUTPUT
 ## S3 BUCKET CREATION:
